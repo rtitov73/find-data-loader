@@ -31,15 +31,20 @@ You will need Git and Java 8 installed on your machine.
 # Usage
 
 ```
-gradle run -Dinput=<input_file> -Doutput=<output_file> [-DtableName=<tableName>]
+git clone https://github.com/rtitov73/find-data-loader.git
+cd find-data-loader/
+gradlew run -Dinput=<input_file> -Doutput=<output_file> [-DtableName=<tableName>]
 ```
 
 Example:
 ```
-gradle run -Dinput="f:\R8.xlsx" -Doutput="f:\output.sql" -DtableName=malaria_rdt_tests_rnd_1_8
+git clone https://github.com/rtitov73/find-data-loader.git
+cd find-data-loader/
+gradlew run -Dinput="f:\R8.xlsx" -Doutput="f:\output.sql" -DtableName=malaria_rdt_tests_rnd_1_8
 ```
 
 This command will take the data from the Excel file called **R8.xlsx**, convert it into
 a set of SQL insert statements and store those statements in the **output.sql** file.
 The table name will be **malaria_rdt_tests_rnd_1_8**
 
+When you run the command for the first time it will load Gradle and required dependencies, so be patient.
