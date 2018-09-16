@@ -12,7 +12,7 @@ This program is not a part of the FIND Interactive guide for high-quality malari
 RDT selection and is not required neither for its operation nor for data import/export. 
 The program is provided purely for convenience. You are free to use or not to use it.
 
-We will not provide any further help, documentation and support for the program whatsover. 
+We will not provide any further help, documentation or support for the program whatsover. 
 We cannot hold liable for any potential damage that can occur from usage of this program.
 Use it wisely for your convenience and at your own risk. 
 
@@ -48,3 +48,7 @@ a set of SQL insert statements and store those statements in the **output.sql** 
 The table name will be **malaria_rdt_tests_rnd_1_8**
 
 When you run the command for the first time it will load Gradle and required dependencies, so be patient.
+
+# License
+
+This software has been placed in the public domain. You can use, modify, distribute, or sell this companion program without any attribution by anyone. 
