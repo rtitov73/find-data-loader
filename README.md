@@ -12,7 +12,7 @@ This program is not a part of the FIND Interactive guide for high-quality malari
 RDT selection and is not required neither for its operation nor for data import/export. 
 The program is provided purely for convenience. You are free to use or not to use it.
 
-We will not provide any further help, documentation or support for the program whatsover. 
+We will not provide any further help, documentation or support for the program whatsoever. 
 We cannot hold liable for any potential damage that can occur from usage of this program.
 Use it wisely for your convenience and at your own risk. 
 
